@@ -1,5 +1,5 @@
 -- HackerRank
-https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true
 
 WITH cte AS (
 SELECT hacker_id,challenge_id, 
